@@ -1,7 +1,17 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./*"]
+      "@app/*": ["app/*"],
+      "@components/*": ["components/*"],
+      "@hooks/*": ["hooks/*"],
+      "@public/*": ["public/*"],
+      "@styles/*": ["styles/*"],
+      "@store/*": ["store/*"],
+      "@lib/*": ["lib/*"],
+      "@ui/*": ["ui/*"],
+      "@constants/*": ["constants/*"],
+      "@context/*": ["context/*"],
+      "@utils/*": ["utils/*"]
     }
   }
 }
