@@ -27,6 +27,7 @@ const Navigation = ({ link, index }) => {
             initial={{ y: -10, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
             transition={{ duration: index * 0.4, delay: 0.1 }}
+            className='list-none'
         >
             <Link
                 href={link.path}
