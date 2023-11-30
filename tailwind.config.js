@@ -10,8 +10,6 @@ module.exports = {
       maxWidth: {
         container: '1440px',
         contentContainer: '1140px',
-        containerSmall: '1024px',
-        containerXS: '768px'
       },
       screens: {
         sx: '320px',
@@ -31,6 +29,7 @@ module.exports = {
         textLight: '#ccd6f6',
         textDark: '#8892b0',
         hoveColor: 'rgba(100,255,218, 0.1)',
+        dangerBg: 'rgba(255,0,0, 0.1)',
       },
     },
   },

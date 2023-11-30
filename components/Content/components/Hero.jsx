@@ -3,8 +3,7 @@ import { motion } from 'framer-motion'
 
 const Hero = () => (
     <section
-        className='w-full max-w-contentContainer py-10 md:py-24 flex flex-col gap-4 lgl:gap-8'
-        id='home'>
+        className='w-full max-w-contentContainer py-10 md:py-15 flex flex-col gap-4 lgl:gap-8'>
         <motion.h3
             initial={{ y: 10, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
