@@ -1,4 +1,4 @@
-# Responsive Website My Portfolio | React/Next (SSR)
+## My Resume (CV) | React/Next (SSR)
 
 ## Start project
 
@@ -12,9 +12,9 @@
 
 ### Website Demo:
 
-- UI - 
+- UI - site-desktop.png
 
-[//]: # (![Responsive Desktop website]&#40;./public/images/desktop-full.png&#41;)
+![Responsive Desktop website](./public/site-desktop.png)
 
 - Laptop version
 
@@ -22,4 +22,5 @@
 
 - Mobile version
 
-[//]: # (![Responsive Mobile website]&#40;./public/site-mobile.jpg&#41;)
+![Responsive Desktop website](./public/site-mobile.png)
+
