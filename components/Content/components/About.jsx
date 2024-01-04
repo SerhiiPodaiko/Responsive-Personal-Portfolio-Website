@@ -6,7 +6,9 @@ import SectionTitle from '@ui/SectionTitle'
 
 import ProfileImage from '@public/images/profile.jpg'
 
-const texnologies = ['Javascript (ES6+)', 'React / Next', 'React Native', 'Vue / Vuex', 'Node / Nest', 'TypeScript', 'Redux (Toolkit)', 'Zustand', 'Mobx', 'React Query']
+const texnologies = ['Javascript (ES6+)', 'React / Next', 'React Native', 'Vue / Nuxt', 'Node / Nest',
+    'TypeScript', 'Redux (Toolkit) / Mobx', 'Zustand', 'React Query', 'UI / UX', 'Webpack / Vite / Gulp', 'CI / CD',
+    'Testing', 'Git / GitHub / GitLab / Bitbucket', 'SOLID / OOP / DRY / KISS', 'Docker']
 const About = () => (
     <motion.section
         initial={{ y: 10, opacity: 0 }}

@@ -1,10 +1,9 @@
 'use client'
 import {useState} from 'react'
-import Image from 'next/image'
 import { motion } from 'framer-motion'
 import cn from 'classnames'
 import SectionTitle from '@ui/SectionTitle'
-import {experienceData} from '@components/Content/components/data'
+import { experienceData } from '@components/Content/components/data'
 
 const Experience = () => {
     const [companyActive, setCompanyActive] = useState(0)

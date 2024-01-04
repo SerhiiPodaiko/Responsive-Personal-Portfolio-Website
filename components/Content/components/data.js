@@ -1,5 +1,16 @@
 export const experienceData = [
     {
+        position: 'Mentor, Teacher',
+        companyName: 'N-Code School',
+        location: 'Ukraine',
+        projectDescription: 'A platform for Front End and Back End training',
+        startDate: '2023, December',
+        endDate: 'Present | Part-time',
+        stack: ['HTML5', 'CSS3', 'JavaScript', 'ES6+', 'Tailwind', 'React/Vue', 'Next/Nuxt', 'Node', 'Webpack/Gulp', 'Git/GitHub'],
+        responsibilities: 'I teach students, help them find a job, motivate',
+        description: null
+    },
+    {
         position: 'REACT NATIVE ENGINEER',
         companyName: 'W8 - Shipping',
         location: 'Ukraine',
@@ -24,7 +35,7 @@ export const experienceData = [
         description: null
     },
     {
-        position: 'REACT DEVELOPER / FRONT LEAD',
+        position: 'REACT / VUE DEVELOPER / FRONT LEAD',
         companyName: 'Solar Digital',
         location: 'Ukraine',
         projectDescription: 'Programs for business improvement. CRM. Electron ic commerce',
@@ -49,7 +60,7 @@ export const experienceData = [
         description: null
     },
     {
-        position: 'FRONT ENS DEVELOPER',
+        position: 'FRONT END DEVELOPER',
         projectDescription: null,
         companyName: 'Company INC',
         location: 'USA - Ukraine',
